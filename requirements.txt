@@ -1,0 +1,13 @@
+python==3.11
+networkx==3.4
+numpy==1.26
+pandas
+plotly
+polars==1.29
+scipy==1.15
+click==8
+colour==0.1.5
+orjson
+sammo>=0.3.3,<1.0
+kaleido==0.1.0.post1
+pyarrow
